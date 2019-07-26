@@ -14,3 +14,4 @@ Exercises from Springboard's Data Science Career Track program.
 * naive_bayes: Basic Text Classification of Rotten Tomatoes Reviews with Naive Bayes (adapted from [Lab 10 of Harvard's CS109](https://github.com/cs109/2015lab10))
 * clustering: Customer Segmentation using Clustering
 * ultimate_challenge: Ultimate Data Analysis Challenge
+* relax_challenge: Relax, Inc. Data Science Challenge
